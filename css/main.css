@@ -59,7 +59,7 @@ a {
 }
 
 .profile .user-profile__username a:hover {
-  color: #660099;
+  color: #f0c029;
 }
 
 .nav {
@@ -77,7 +77,7 @@ a {
 }
 
 .nav-item a:hover {
-  color: #660099;
+  color: #f0c029;
   text-decoration: underline;
 }
 
@@ -121,7 +121,7 @@ h1:after {
 }
 
 .self a {
-  color: #660099;
+  color: #f0c029;
 }
 
 .self a:hover {
